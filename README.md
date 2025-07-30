@@ -1,8 +1,7 @@
-# Elastic SIEM Lab – Basic SOC Simulation
+# Elastic SIEM Lab – Building a Simple SIEM with Elasticsearch, Logstash, and Kibana (ELK Stack)
 
-**Hands-On Project: Building a Simple SIEM with Elasticsearch, Logstash, and Kibana (ELK Stack)**  
-🔗 [Original Lab Guide](https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2)
 
+[Original Lab Guide](https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2) 
 ## Overview
 
 As part of my journey toward breaking into cybersecurity, I wanted hands-on experience with how Security Operations Centers (SOCs) detect and investigate threats. Following a Medium lab guide, I set up a simple **Elastic SIEM environment** using the ELK Stack to visualize and analyze security event data in real time.
