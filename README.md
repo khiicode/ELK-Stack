@@ -59,6 +59,6 @@ This project helped me better understand how **logs become insight** and how def
 
 **Mekhi Sams**  
 Aspiring Cybersecurity Professional | CompTIA Security+ Certified  
-[LinkedIn](https://www.linkedin.com/in/mekhi-sams-98010723b/) *(insert your LinkedIn)*  
+[LinkedIn](https://www.linkedin.com/in/mekhi-sams-98010723b/)
 
 
